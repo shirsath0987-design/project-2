@@ -1,23 +1,10 @@
+<!DOCTYPE html>
 <html>
-
-
-
 <head>
-
-
-  <title>my first project</title>
-
-
+    <title>My First Webpage</title>
 </head>
-
-
 <body>
-
-
-  <p>my first project on github</p>
-
-
+    <h1>Hello, World!</h1>
+    <p>This is my first HTML page.</p>
 </body>
-
-
 </html>
